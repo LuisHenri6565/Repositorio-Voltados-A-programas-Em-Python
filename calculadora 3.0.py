@@ -1,6 +1,6 @@
 
 # Projeto calculadora 09/09/2023!
-import os  #Import o leitor de sistema operacional
+import os  # Importa um modulo que disponibiliza funções a interagir com o sistema operacional
 import math   # Importa o pacote matemático.
 import statistics   # Importa o pacote estatístico.
 from collections import Counter  # Importa a função Counter do pacote collections.
