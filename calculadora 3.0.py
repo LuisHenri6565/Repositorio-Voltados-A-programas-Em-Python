@@ -1,5 +1,3 @@
-
-# Projeto calculadora 09/09/2023!
 import os  # Importa um modulo que disponibiliza funções a interagir com o sistema operacional
 import math   # Importa o pacote matemático.
 import statistics   # Importa o pacote estatístico.
